@@ -42,7 +42,7 @@
                     </div>
                     <div class="form-group">
                         <div class="form-line">
-                            <input name="tahun" type="text" class="form-control" placeholder="Tahun HP" value="{{ $dt->thn_hp }}">
+                            <input name="tahun" type="number" min='1' class="form-control" placeholder="Tahun HP" value="{{ $dt->thn_hp }}">
                         </div>
                     </div>
                     @endforeach

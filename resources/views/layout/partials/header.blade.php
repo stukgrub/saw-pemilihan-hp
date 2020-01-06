@@ -79,7 +79,7 @@
             <div class="navbar-header">
                 <a href="javascript:void(0);" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" aria-expanded="false"></a>
                 <a href="javascript:void(0);" class="bars"></a>
-                <a class="navbar-brand" href="index.html">Cekcek.com</a>
+                <a class="navbar-brand" href="index.html">Pemilihan Handphone - Metode SAW</a>
             </div>
         </div>
     </nav>
@@ -108,27 +108,15 @@
                         </a>
                     </li>
                     <li>
-                        <a href="/data" class="waves-effect waves-block">
+                        <a href="/alternatif" class="waves-effect waves-block">
                             <i class="material-icons">view_list</i>
-                            <span>Data</span>
+                            <span>Data Alternatif</span>
                         </a>
                     </li>
                     <li>
-                        <a href="/criteria" class="waves-effect waves-block">
+                        <a href="/normal" class="waves-effect waves-block">
                             <i class="material-icons">view_list</i>
-                            <span>Criteria</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/product" class="waves-effect waves-block">
-                            <i class="material-icons">view_list</i>
-                            <span>Products</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="/score" class="waves-effect waves-block">
-                            <i class="material-icons">view_list</i>
-                            <span>Scores</span>
+                            <span>Data Normal</span>
                         </a>
                     </li>
                 </ul>
@@ -137,7 +125,7 @@
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; 2019 - 2020 <a href="javascript:void(0);">Admin - Shopping</a>.
+                    &copy; 2019 - 2020 <a href="javascript:void(0);">Admin - SPK</a>.
                 </div>
                 <div class="version">
                     <b>Version: </b> 1.0.5

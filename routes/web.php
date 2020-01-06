@@ -35,3 +35,12 @@ Route::get('/sub/edit/{id}', 'SubkriteriaController@edit');
 Route::post('/sub/update', 'SubkriteriaController@update');
 Route::get('/sub/delete/{id}', 'SubkriteriaController@destroy');
 
+
+// Normal Route
+Route::get('/normal', 'NormalController@index');
+Route::post('/normal', 'NormalController@store');
+Route::get('/normal/edit/{id}', 'NormalController@edit');
+Route::post('/normal/update', 'NormalController@update');
+Route::get('/normal/delete/{id}', 'NormalController@destroy');
+
+Route::get('/hasil', 'HasilController@index');

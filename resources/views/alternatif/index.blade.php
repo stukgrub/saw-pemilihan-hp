@@ -1,5 +1,5 @@
 @extends('layout.mainlayout')
-
+@section('title', 'Data Alternatif')
 @section('content')
 
 <div class="block-header">
@@ -82,7 +82,7 @@
                     </div>
                     <div class="form-group">
                         <div class="form-line">
-                            <input name="tahun" type="text" class="form-control" placeholder="Tahun HP" />
+                            <input name="tahun" type="number" min='1' class="form-control" placeholder="Tahun HP" />
                         </div>
                     </div>
                     <input class="btn btn-primary" type="submit" value="Simpan Data">
